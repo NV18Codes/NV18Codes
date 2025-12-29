@@ -10,31 +10,31 @@
 ### 🌙 The Nocturnal Coder
 "Turning midnight oil into clean code. By day, I build at Aspiron Khuze; by night, I decode the future of Web Dev and Machine Learning."
 
-- 🚀 **Focus:** Crafting pixel-perfect **UI/UX** and building data-driven **Python** models.
-- 📚 **Learning Path:** Currently transitioning toward Full-Stack by mastering **Backend Architectures**.
-- 💬 **Ask me about:** ReactJS, Frontend Deployment, or GitHub workflows.
-- ⚡ **Fun Fact:** I’m a one-night owl who thrives on late-night logic.
+- 🚀 **Focus:** Building responsive web interfaces and data-driven Python models.
+- 📚 **Learning Path:** Mastering **ReactJS** and **Python** while transitioning toward Full-Stack.
+- 💬 **Ask me about:** Web Dev, UI/UX, Deployment, and GitHub.
+- ⚡ **Fun Fact:** I thrive on decoding complex logic when the world is asleep.
 
 ---
 
-### 🛤️ Learning Journey (Road to Full-Stack)
-- [x] **Frontend:** ReactJS, Tailwind, Vite
+### 🛤️ Learning Journey
+- [x] **Web Fundamentals:** HTML5, CSS3, JavaScript (ES6+)
+- [x] **Frontend:** ReactJS, Tailwind CSS
 - [x] **Data Science:** Python, NumPy, Pandas
-- [ ] **Backend (In Progress):** Node.js, Database Management (SQL/NoSQL)
-- [ ] **Machine Learning:** Deep Learning & TensorFlow refinement
+- [ ] **Backend (In Progress):** Learning API development and Databases
 
 ---
 
 ### 💻 My Tech Universe
 
-#### 🎨 Frontend & UI/UX
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+#### 🎨 Web Development & UI/UX
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 #### 📊 Data Science & Logic
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 #### ⚙️ Tools & Deployment
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -49,9 +49,9 @@
 ### 📊 GitHub Activity
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=NV18Codes&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-<br/>
+<br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NV18Codes&layout=compact&theme=tokyonight" alt="Top Languages" />
-<br/>
+<br/><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=NV18Codes&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
